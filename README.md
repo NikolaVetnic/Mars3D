@@ -1,2 +1,2 @@
 # Mars3D
-Read me file.
+Read me.
